@@ -8,6 +8,7 @@ namespace IDI_COMP
         [STAThread]
         static void Main()
         {
+            //테스트입니다.
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
